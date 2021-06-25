@@ -11,9 +11,14 @@ namespace BMICalculationApp
         static void Main(string[] args)
         {
  
+            //read from console
             PatientDetails information = new PatientDetails();
+            //Calculator
+            //Validate
+            //Display
+            
 
-            information.ReadDetails();
+            
 
         }
     }
