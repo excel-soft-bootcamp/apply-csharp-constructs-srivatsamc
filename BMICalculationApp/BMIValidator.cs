@@ -8,21 +8,21 @@ namespace BMICalculationApp
 {
     public class BMIValidator
     {
-        Display consoledisplay = new Display();
+        Display consoleDisplay = new Display();
 #region Checking BMIvalue 
         public void CheckCondition(float BMIValue)
         {
             if (BMIValue < 18.5)
             {
-                consoledisplay.Message1();
+                consoleDisplay.Message1();
             }
             else if (BMIValue >= 25)
             {
-                consoledisplay.Message2();
+                consoleDisplay.Message2();
             }
             else
             {
-                consoledisplay.Message3();
+                consoleDisplay.Message3();
             }
         }
 #endregion
