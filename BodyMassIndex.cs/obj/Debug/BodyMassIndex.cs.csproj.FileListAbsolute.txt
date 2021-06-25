@@ -1,7 +1,0 @@
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\bin\Debug\BodyMassIndex.cs.exe.config
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\bin\Debug\BodyMassIndex.cs.exe
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\bin\Debug\BodyMassIndex.cs.pdb
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\obj\Debug\BodyMassIndex.cs.csprojResolveAssemblyReference.cache
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\obj\Debug\BodyMassIndex.cs.csproj.CoreCompileInputs.cache
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\obj\Debug\BodyMassIndex.cs.exe
-C:\Users\srivatsa.mc\Documents\GitHub\excelsoft-bootcamp-examples\Examples\BodyMassIndex.cs\obj\Debug\BodyMassIndex.cs.pdb
