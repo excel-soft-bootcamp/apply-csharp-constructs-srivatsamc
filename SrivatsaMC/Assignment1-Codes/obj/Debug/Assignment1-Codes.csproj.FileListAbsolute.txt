@@ -1,7 +1,0 @@
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\bin\Debug\Assignment1-Codes.exe.config
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\bin\Debug\Assignment1-Codes.exe
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\bin\Debug\Assignment1-Codes.pdb
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\obj\Debug\Assignment1-Codes.csproj.CoreCompileInputs.cache
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\obj\Debug\Assignment1-Codes.exe
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\obj\Debug\Assignment1-Codes.pdb
-C:\Users\srivatsa.mc\source\repos\demo\Assignment1-Codes\obj\Debug\Assignment1-Codes.csprojResolveAssemblyReference.cache

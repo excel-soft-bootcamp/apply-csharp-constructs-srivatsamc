@@ -1,7 +1,0 @@
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\bin\Debug\Referencetype.cs.exe.config
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\bin\Debug\Referencetype.cs.exe
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\bin\Debug\Referencetype.cs.pdb
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\obj\Debug\ReferencetypeAndValueType.cs.csprojResolveAssemblyReference.cache
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\obj\Debug\ReferencetypeAndValueType.cs.csproj.CoreCompileInputs.cache
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\obj\Debug\Referencetype.cs.exe
-C:\Users\srivatsa.mc\source\repos\demo\Referencetype.cs\obj\Debug\Referencetype.cs.pdb
