@@ -1,0 +1,6 @@
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\bin\Debug\BMICalculationApp.exe.config
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\bin\Debug\BMICalculationApp.exe
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\bin\Debug\BMICalculationApp.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.exe
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.pdb
