@@ -10,19 +10,19 @@ namespace BMICalculationApp
     {
         
 #region Checking BMIvalue 
-        public string  CheckCondition(float BMIValue)
+        public string CheckCondition(float BMIValue)
         {
             if (BMIValue < 18.5)
             {
-                return "UnderWeight";
+                return "UNDERWEIGHT";
             }
             else if (BMIValue >= 25)
             {
-                return "OverWeight";
+                return "OVERWEIGHT";
             }
             else
             {
-                return "Normal"
+                return "HEALTHY";
             }
         }
 #endregion

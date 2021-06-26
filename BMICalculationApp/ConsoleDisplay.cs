@@ -6,17 +6,16 @@ using System.Threading.Tasks;
 
 namespace BMICalculationApp
 {
-   public class ConsoleDisplay
-    {
  #region Message display
-        public void Display(string message)
+        public class ConsoleDisplay
         {
             
-           Console.WriteLine(message);
-        }
-        
-    
-    #endregion
+            public void Display(string message)
+            {
 
-}
+                Console.WriteLine(message);
+            }
+
+        }
+ #endregion
 }

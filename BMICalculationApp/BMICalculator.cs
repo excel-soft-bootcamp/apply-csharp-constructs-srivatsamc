@@ -11,16 +11,12 @@ namespace BMICalculationApp
         
 #region Calculation of BodyMassIndex
 
-        public float CalculateBMI(float weightValue,float heightValue)
+        public float BMI(float weight,float height)
         {
-
-           return (weightValue / heightValue);
-
-            
+           return (weight / height);
+           
         }
-
 
         #endregion
-
-        }
+    }
 }

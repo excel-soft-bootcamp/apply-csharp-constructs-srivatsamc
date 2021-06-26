@@ -44,7 +44,7 @@
   <ItemGroup>
     <Compile Include="BMICalculator.cs" />
     <Compile Include="BMIValidator.cs" />
-    <Compile Include="Display.cs" />
+    <Compile Include="ConsoleDisplay.cs" />
     <Compile Include="PatientDetails.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

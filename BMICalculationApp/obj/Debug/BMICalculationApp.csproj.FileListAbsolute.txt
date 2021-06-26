@@ -4,3 +4,4 @@ C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\bin\Debug\
 C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\bin\Debug\BMICalculationApp.pdb
 C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.exe
 C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationApp\BMICalculationApp\obj\Debug\BMICalculationApp.csprojResolveAssemblyReference.cache
