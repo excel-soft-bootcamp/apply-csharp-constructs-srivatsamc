@@ -9,7 +9,7 @@ namespace BMICalculationApp
     public class BMIValidator
     {
         
-#region Checking BMIvalue 
+        #region Checking BMIvalue 
         public string CheckCondition(float BMIValue)
         {
             if (BMIValue < 18.5)
@@ -25,6 +25,6 @@ namespace BMICalculationApp
                 return "HEALTHY";
             }
         }
-#endregion
+        #endregion
     }
 }
