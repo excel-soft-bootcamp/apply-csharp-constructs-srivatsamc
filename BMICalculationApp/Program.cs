@@ -10,7 +10,7 @@ namespace BMICalculationApp
     {
         static void Main(string[] args)
         {
-#region Setting and Getting Values for Height and Weight given by Patient
+            #region Setting and Getting Values for Height and Weight given by Patient
 
             PatientDetails information = new PatientDetails();
             float heightValue= information.HeightInMeters;
@@ -18,26 +18,26 @@ namespace BMICalculationApp
 
             #endregion
 
-#region Calculating BodyMassIndex
+            #region Calculating BodyMassIndex
 
             BMICalculator calculate = new BMICalculator();
             float bmiValue = calculate.BMI(heightValue, weightValue);
 
             #endregion
 
-#region Validating BMIValue
+            #region Validating BMIValue
 
             BMIValidator validate = new BMIValidator();
             string message = validate.CheckCondition(bmiValue);
 
             #endregion
 
-#region Dispalying appropriate message on console
+            #region Dispalying appropriate message on console
 
             ConsoleDisplay console = new ConsoleDisplay();
             console.Display(message);
 
-#endregion
+            #endregion
 
         }
     }
