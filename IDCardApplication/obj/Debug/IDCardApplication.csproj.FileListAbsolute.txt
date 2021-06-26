@@ -1,0 +1,7 @@
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\bin\Debug\IDCardApplication.exe.config
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\bin\Debug\IDCardApplication.exe
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\bin\Debug\IDCardApplication.pdb
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\obj\Debug\IDCardApplication.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\obj\Debug\IDCardApplication.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\obj\Debug\IDCardApplication.exe
+C:\Users\srivatsa.mc\source\repos\IDCardApplication\IDCardApplication\obj\Debug\IDCardApplication.pdb
