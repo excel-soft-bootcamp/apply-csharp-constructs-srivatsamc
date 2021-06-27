@@ -8,54 +8,54 @@ namespace TataCarEngineImplementationApp
 {
     public class TATACar
     {
-        Iperformance _performance;
+        Imotor _motor;
 
         //Injection through constructor   
-        public TATACar(Iperformance engine)
+        public TATACar(Imotor engine)
         {
-            this._performance = engine;
+            this._motor = engine;
         }
         public void Drive()
         {
 
-            _performance.Start();
+            _motor.Start();
         }
         public void Halt()
         {
 
-            _performance.Stop();
+            _motor.Stop();
         }
 
 
     }
 
-    public interface Iperformance
+    public interface Imotor
     {
         void Start();
         void Stop();
 
     }
 
-    public class DiCorEngine:Iperformance
+    public class DiCorEngine:Imotor
     {
 
         public void Start() { }
         public void Stop() { }
     }
 
-    public class VeriCorEngine:Iperformance
+    public class VeriCorEngine:Imotor
     {
         public void Start() { }
         public void Stop() { }
 
     }
 
-    public class MultiJetEngine:Iperformance
+    public class MultiJetEngine:Imotor
     {
         public void Start() { }
         public void Stop() { }
     }
-    public class RevorTron:Iperformance
+    public class RevorTron:Imotor
     {
         public void Start() { }
         public void Stop() { }
