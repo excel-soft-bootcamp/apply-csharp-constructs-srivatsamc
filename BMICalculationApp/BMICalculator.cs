@@ -9,11 +9,12 @@ namespace BMICalculationApp
     public class BMICalculator
     {
         
-        #region Calculation of BodyMassIndex
+#region Calculation of BodyMassIndex
 
         public float BMI(float weight,float height)
         {
-           return (weight / height);  
+           return (weight / height);
+           
         }
 
         #endregion

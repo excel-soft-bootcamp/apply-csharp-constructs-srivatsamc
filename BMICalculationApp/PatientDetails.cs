@@ -9,15 +9,13 @@ namespace BMICalculationApp
      class PatientDetails
     {
        
-        #region UDT
+#region UDT
 
         private float heightInMeters;
         private float weightInKilos;
         
 
         #endregion
-             
-        #region Setting and Getting values using properties
 
         public float HeightInMeters
         {
@@ -44,8 +42,6 @@ namespace BMICalculationApp
                 this.weightInKilos =float.Parse( Console.ReadLine());
             }
         }
-          
-        #endregion
      
      }
         

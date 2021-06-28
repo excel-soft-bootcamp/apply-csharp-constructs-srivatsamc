@@ -8,22 +8,22 @@ namespace TataCarEngineImplementationApp
 {
     public class TATACar
     {
-        Imotor _motor;
+        Imotor _performance;
 
         //Injection through constructor   
         public TATACar(Imotor motor)
         {
-            this._motor = motor;
+            this._performance = motor;
         }
         public void Drive()
         {
 
-            _motor.Start();
+            _performance.Start();
         }
         public void Halt()
         {
 
-            _motor.Stop();
+            _performance.Stop();
         }
 
 

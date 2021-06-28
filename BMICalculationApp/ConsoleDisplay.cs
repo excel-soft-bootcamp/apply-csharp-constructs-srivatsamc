@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BMICalculationApp
 {
-        #region Message display
+ #region Message display
         public class ConsoleDisplay
         {
             
@@ -17,5 +17,5 @@ namespace BMICalculationApp
             }
 
         }
-        #endregion
+ #endregion
 }
