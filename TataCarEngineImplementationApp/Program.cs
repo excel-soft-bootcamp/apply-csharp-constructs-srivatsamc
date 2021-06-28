@@ -6,6 +6,69 @@ using System.Threading.Tasks;
 
 namespace TataCarEngineImplementationApp
 {
+<<<<<<< HEAD
+=======
+    public class TATACar
+    {
+        Imotor _performance;
+
+        //Injection through constructor   
+        public TATACar(Imotor motor)
+        {
+            this._motor = motor;
+        }
+        public void Drive()
+        {
+
+            _motor.Start();
+        }
+        public void Halt()
+        {
+
+            _motor.Stop();
+        }
+
+
+    }
+
+    public interface Imotor
+    {
+        void Start();
+        void Stop();
+
+    }
+
+    public class DiCorEngine:Imotor
+    {
+
+        public void Start() { }
+        public void Stop() { }
+    }
+
+    public class VeriCorEngine:Imotor
+    {
+        public void Start() { }
+        public void Stop() { }
+
+    }
+
+    public class MultiJetEngine:Imotor
+    {
+        public void Start() { }
+        public void Stop() { }
+    }
+    public class RevorTron:Imotor
+    {
+        public void Start() { }
+        public void Stop() { }
+    }
+
+    //BS IV 
+
+    //BS VI
+
+
+>>>>>>> fe01bb8b1995161d8f30e723f8f4a4b7c498060f
     class Program
     {
         static void Main(string[] args)
