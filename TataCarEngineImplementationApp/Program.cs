@@ -11,9 +11,9 @@ namespace TataCarEngineImplementationApp
         Imotor _motor;
 
         //Injection through constructor   
-        public TATACar(Imotor engine)
+        public TATACar(Imotor motor)
         {
-            this._motor = engine;
+            this._motor = motor;
         }
         public void Drive()
         {
