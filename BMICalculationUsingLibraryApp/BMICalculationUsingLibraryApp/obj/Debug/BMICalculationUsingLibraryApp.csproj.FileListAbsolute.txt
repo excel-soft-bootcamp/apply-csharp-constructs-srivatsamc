@@ -1,0 +1,15 @@
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMICalculationUsingLibraryApp.exe.config
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMICalculationUsingLibraryApp.exe
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMICalculationUsingLibraryApp.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMIValidatorLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\PatientDetailsLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\BMIValidatorLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\ConsoleDisplayLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\bin\Debug\PatientDetailsLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\obj\Debug\BMICalculationUsingLibraryApp.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\obj\Debug\BMICalculationUsingLibraryApp.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\obj\Debug\BMICalculationUsingLibraryApp.exe
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMICalculationUsingLibraryApp\obj\Debug\BMICalculationUsingLibraryApp.pdb

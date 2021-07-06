@@ -1,0 +1,6 @@
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\bin\Debug\PatientDetailsLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\bin\Debug\PatientDetailsLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\obj\Debug\PatientDetailsLib.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\obj\Debug\PatientDetailsLib.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\obj\Debug\PatientDetailsLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\PatientDetailsLib\obj\Debug\PatientDetailsLib.pdb

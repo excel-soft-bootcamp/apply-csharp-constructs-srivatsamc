@@ -1,0 +1,6 @@
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\bin\Debug\BMIValidatorLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\bin\Debug\BMIValidatorLib.pdb
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.csprojResolveAssemblyReference.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.dll
+C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.pdb
