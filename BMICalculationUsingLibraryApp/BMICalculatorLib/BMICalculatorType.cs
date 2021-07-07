@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BMICalculatorLib
 {
-    public static class BMICalculatorLib
+    public static class BMICalculatorType
     {
-        public static float BMI(float weight, float height)
+        public static float BMIValueCalculator(float weight, float height)
         {
             return (weight / height);
 

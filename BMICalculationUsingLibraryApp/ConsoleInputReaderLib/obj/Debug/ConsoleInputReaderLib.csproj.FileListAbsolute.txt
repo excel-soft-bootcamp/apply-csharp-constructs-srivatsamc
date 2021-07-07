@@ -1,0 +1,8 @@
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.dll
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\bin\Debug\ConsoleInputReaderLib.pdb
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csprojResolveAssemblyReference.cache
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.dll
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\obj\Debug\ConsoleInputReaderLib.pdb
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\bin\Debug\ConsoleDisplayLib.dll
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\ConsoleInputReaderLib\bin\Debug\ConsoleDisplayLib.pdb

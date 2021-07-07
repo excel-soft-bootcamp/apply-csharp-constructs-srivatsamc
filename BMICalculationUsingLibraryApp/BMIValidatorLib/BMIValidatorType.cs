@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BMIValidatorLib
 {
-    public static class BMIValidatorLib
+    public static class BMIValidatorType
     {
-        public static string CheckCondition(float BMIValue)
+        public static string ValidateBMIValue(float BMIValue)
         {
             if (BMIValue < 18.5)
             {

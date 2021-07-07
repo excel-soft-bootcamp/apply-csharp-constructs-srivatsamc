@@ -10,11 +10,17 @@ namespace BMICalculationUsingLibraryApp
     {
         static void Main(string[] args)
         {
-            float height = PatientDetailsLib.PatientDetailsLib.SetAndGetHeightInMeters();
-            float weight = PatientDetailsLib.PatientDetailsLib.SetAndGetWeightInKilos();
-            float bmiValue= BMICalculatorLib.BMICalculatorLib.BMI(weight, height);
-            string message = BMIValidatorLib.BMIValidatorLib.CheckCondition(bmiValue);
-            ConsoleDisplayLib.ConsoleDisplayLib.Display(message);
+            float height = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleHeightReader();
+            float weight = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleWeightReader();
+
+            float heightInMeters=PatientDetailsLib.PatientDetailsType.SetHeight(height);
+            float weightInKilos = PatientDetailsLib.PatientDetailsType.SetWeight(weight);
+
+            float bmiValue= BMICalculatorLib.BMICalculatorType.BMIValueCalculator(weightInKilos,heightInMeters);
+
+            string message = BMIValidatorLib.BMIValidatorType.ValidateBMIValue(bmiValue);
+
+            ConsoleDisplayLib.ConsoleDisplayType.Display(message);
             
         }
     }

@@ -4,3 +4,8 @@ C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\
 C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.csproj.CoreCompileInputs.cache
 C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.dll
 C:\Users\srivatsa.mc\source\repos\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.pdb
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMIValidatorLib\bin\Debug\BMIValidatorLib.dll
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMIValidatorLib\bin\Debug\BMIValidatorLib.pdb
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.csproj.CoreCompileInputs.cache
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.dll
+C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMIValidatorLib\obj\Debug\BMIValidatorLib.pdb

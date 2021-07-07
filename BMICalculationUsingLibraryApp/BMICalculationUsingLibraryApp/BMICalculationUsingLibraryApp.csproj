@@ -61,6 +61,10 @@
       <Project>{10cc1039-5f84-43ba-87fd-08c14f7f1ec9}</Project>
       <Name>ConsoleDisplayLib</Name>
     </ProjectReference>
+    <ProjectReference Include="..\ConsoleInputReaderLib\ConsoleInputReaderLib.csproj">
+      <Project>{153083be-e8e3-49cd-8a03-6255585eb6d0}</Project>
+      <Name>ConsoleInputReaderLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\PatientDetailsLib\PatientDetailsLib.csproj">
       <Project>{2a9a5f97-e1eb-4424-ae5f-05f077ea8c74}</Project>
       <Name>PatientDetailsLib</Name>
