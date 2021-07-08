@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace PatientDetailsLib
 {
-    public static class PatientDetailsType
+    public  class PatientDetailsType
     {
         public static float SetHeight(float height)
         {
-
           float heightInMeters = height;
           return heightInMeters;
         }

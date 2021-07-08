@@ -9,3 +9,8 @@ C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\B
 C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
 C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
 C:\Users\divyashree.chatra\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\bin\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\bin\Debug\BMICalculatorLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\BMICalculatorLib\obj\Debug\BMICalculatorLib.pdb

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BMIValidatorLib
 {
-    public static class BMIValidatorType
+    public  class BMIValidatorType
     {
         public static string ValidateBMIValue(float BMIValue)
         {

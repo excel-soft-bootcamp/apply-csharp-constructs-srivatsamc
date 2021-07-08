@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BMICalculatorLib
 {
-    public static class BMICalculatorType
+    public  class BMICalculatorType
     {
         public static float BMIValueCalculator(float weight, float height)
         {

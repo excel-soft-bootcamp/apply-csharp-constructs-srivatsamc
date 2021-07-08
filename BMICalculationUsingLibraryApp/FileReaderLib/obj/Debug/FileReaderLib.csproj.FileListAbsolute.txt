@@ -1,0 +1,17 @@
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\FileReaderLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\FileReaderLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\obj\Debug\FileReaderLib.csproj.CoreCompileInputs.cache
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\obj\Debug\FileReaderLib.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\obj\Debug\FileReaderLib.pdb
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\CsvHelper.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Buffers.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Memory.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.ValueTuple.dll
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\CsvHelper.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Buffers.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Memory.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.ValueTuple.xml

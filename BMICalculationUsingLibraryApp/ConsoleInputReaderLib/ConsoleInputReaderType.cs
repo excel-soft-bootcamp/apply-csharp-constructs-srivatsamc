@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleInputReaderLib
 {
-    public static class ConsoleInputReaderType
+    public class ConsoleInputReaderType
     {
         public static float ConsoleHeightReader()
         {

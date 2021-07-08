@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleDisplayLib
 {
-    public static class ConsoleDisplayType
+    public class ConsoleDisplayType
     {
         public static void Display(string message)
         {
