@@ -17,8 +17,6 @@ namespace BMICalculationUsingLibraryApp
     public class Program
     {
         public static  int _choice;
-        public static float heightValue;
-        public static float weightValue;
         static void Main(string[] args)
         {
 
@@ -42,7 +40,7 @@ namespace BMICalculationUsingLibraryApp
                   
                 }
                 
-                catch (FormatException ex)
+                catch (FormatException )
                 {
                     ConsoleDisplayLib.ConsoleDisplayType.Display("Choice must be number");
                 }
@@ -53,26 +51,27 @@ namespace BMICalculationUsingLibraryApp
 
             if (_choice == 1)
             {
-                float heightValue = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleHeightReader();
-                float weightValue = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleWeightReader();
-        
+                float heightInMeters = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleHeightReader();
+                float weightInKilos = ConsoleInputReaderLib.ConsoleInputReaderType.ConsoleWeightReader();
+                float bmivalue = BMICalculatorLib.BMICalculatorType.BMIValueCalculator(weightInKilos,heightInMeters);
+                string message = BMIValidatorLib.BMIValidatorType.ValidateBMIValue(bmivalue);
+                ConsoleDisplayLib.ConsoleDisplayType.Display(message);
+
             }
             else 
             {
                 ConsoleDisplayLib.ConsoleDisplayType.Display("Enter Path");
                 string enteredPath = Console.ReadLine();
-                FileReaderLib.FileReaderType.ReadFile(enteredPath);
+                List<string> patientDetailsList= FileReaderLib.Functionality.GetAllPatientsDetails(enteredPath);
+                string detailsList =  Convert.ToString(patientDetailsList);
 
+                object details = FileReaderLib.Functionality.MappingObject(detailsList);
+
+                ConsoleDisplayLib.ConsoleDisplayType.Display((string )details);
+
+       
             }
-
-            float bmivalue =BMICalculatorLib.BMICalculatorType.BMIValueCalculator(weightValue,heightValue);
-           
-
-            string message = BMIValidatorLib.BMIValidatorType.ValidateBMIValue(bmivalue);
-
-            ConsoleDisplayLib.ConsoleDisplayType.Display(message);
-
-            
+               
         }       
     }
 }

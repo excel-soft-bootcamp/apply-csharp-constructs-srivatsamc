@@ -15,3 +15,4 @@ C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalc
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\bin\Debug\System.ValueTuple.xml
+C:\Users\srivatsa.mc\Documents\GitHub\apply-csharp-constructs-srivatsamc\BMICalculationUsingLibraryApp\FileReaderLib\obj\Debug\FileReaderLib.csprojResolveAssemblyReference.cache
