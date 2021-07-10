@@ -4,3 +4,4 @@ C:\Users\srivatsa.mc\source\repos\HomeSecuritySolutionProgram\HomeSecuritySoluti
 C:\Users\srivatsa.mc\source\repos\HomeSecuritySolutionProgram\HomeSecuritySolutionProgram\obj\Debug\HomeSecuritySolutionProgram.csproj.CoreCompileInputs.cache
 C:\Users\srivatsa.mc\source\repos\HomeSecuritySolutionProgram\HomeSecuritySolutionProgram\obj\Debug\HomeSecuritySolutionProgram.exe
 C:\Users\srivatsa.mc\source\repos\HomeSecuritySolutionProgram\HomeSecuritySolutionProgram\obj\Debug\HomeSecuritySolutionProgram.pdb
+C:\Users\srivatsa.mc\source\repos\HomeSecuritySolutionProgram\HomeSecuritySolutionProgram\obj\Debug\HomeSecuritySolutionProgram.csprojResolveAssemblyReference.cache

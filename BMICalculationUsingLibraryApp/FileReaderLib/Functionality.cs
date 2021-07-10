@@ -31,6 +31,18 @@ namespace FileReaderLib
             return patientData;
         }
 
+        public static List<PatientDetailsType> SeparationOfLines(object details)
+        {
+            List<PatientDetailsType> patientInfo = new List<PatientDetailsType>();
+            for(int i =0; i < patientInfo.Count; i++)
+            {
+                PatientDetailsType detailsType =  details;
+                patientInfo.Add(detailsType);
+            }
+            return patientInfo;
+        }
+
+
 
 
         

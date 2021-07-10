@@ -62,12 +62,13 @@ namespace BMICalculationUsingLibraryApp
             {
                 ConsoleDisplayLib.ConsoleDisplayType.Display("Enter Path");
                 string enteredPath = Console.ReadLine();
+
                 List<string> patientDetailsList= FileReaderLib.Functionality.GetAllPatientsDetails(enteredPath);
                 string detailsList =  Convert.ToString(patientDetailsList);
 
                 object details = FileReaderLib.Functionality.MappingObject(detailsList);
 
-                ConsoleDisplayLib.ConsoleDisplayType.Display((string )details);
+                FileReaderLib.Functionality.SeparationOfLines(details);
 
        
             }

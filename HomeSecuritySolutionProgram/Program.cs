@@ -11,13 +11,12 @@ namespace HomeSecuritySolutionProgram
         static void Main(string[] args)
         {
             SecuritySystemType DoorObserver = new SecuritySystemType();
-            DoorStatusProctor statusOfOpenDoor = new DoorStatusProctor(DoorObserver.SendSMS);
-            DoorStatusProctor statusOfCloseDoor = new DoorStatusProctor(DoorObserver.SendSMS);
+            DoorStatusProctor doorStatus = new DoorStatusProctor(DoorObserver.SendSMS);
 
-            DoorSensorType openDoor = new DoorSensorType();
-            openDoor.OnChangesInDoorStatus += statusOfOpenDoor;
-            openDoor.Open();
-            openDoor.Close();
+            DoorSensorType sensorStatus = new DoorSensorType();
+            sensorStatus.OnChangesInDoorStatus += doorStatus;
+            sensorStatus.Open();
+            sensorStatus.Close();
            
     
         }

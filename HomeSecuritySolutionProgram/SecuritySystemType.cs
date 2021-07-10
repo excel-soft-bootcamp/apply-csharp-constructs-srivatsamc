@@ -9,11 +9,9 @@ namespace HomeSecuritySolutionProgram
    
     public class SecuritySystemType
     {
-        HomeOwnerType owner = new HomeOwnerType();
-        public void SendSMS()
+        public void SendSMS(string message)
         {
-            Console.WriteLine("Door status changed");
-            owner.GetSMSNotification();
+            Console.WriteLine(message);
         }
     }
 }

@@ -9,7 +9,7 @@ namespace HomeSecuritySolutionProgram
 
     public class HomeOwnerType
     {
-        public void GetSMSNotification()
+        public void Notification()
         {
             Console.WriteLine("Your door status changed");
         }
