@@ -60,12 +60,26 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="FileReaderType.cs" />
-    <Compile Include="Functionality.cs" />
+    <Compile Include="PatientDataReaderType.cs" />
     <Compile Include="PatientDetailsType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BMICalculatorLib\BMICalculatorLib.csproj">
+      <Project>{8b2f8099-5d46-4b89-bab6-60e626e20209}</Project>
+      <Name>BMICalculatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BMIValidatorLib\BMIValidatorLib.csproj">
+      <Project>{29bb9cc4-4fa1-4b25-8b48-1310461f0523}</Project>
+      <Name>BMIValidatorLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ConsoleDisplayLib\ConsoleDisplayLib.csproj">
+      <Project>{10cc1039-5f84-43ba-87fd-08c14f7f1ec9}</Project>
+      <Name>ConsoleDisplayLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
