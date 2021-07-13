@@ -25,14 +25,13 @@ namespace FileReaderLib
             List<string> lines = new List<string>();
                 try
                 {
-                    System.IO.StreamReader reader = new System.IO.StreamReader(path);
-                    while (!reader.EndOfStream)
-                    {
-                        string line = reader.ReadLine();
-                        lines.Add(line);
-                    }
-                    reader.Close();
-
+                System.IO.StreamReader reader = new System.IO.StreamReader (path);
+                while (!reader.EndOfStream)
+                {
+                    string line = reader.ReadLine();
+                    lines.Add(line);
+                }
+                reader.Close();
                 }
                 catch (SystemException)
                 {

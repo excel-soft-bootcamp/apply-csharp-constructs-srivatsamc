@@ -22,7 +22,7 @@ namespace BMICalculationUsingLibraryApp
             int repeatableCount = 3;
             do
             {
-                string consoleMessage = $"Enter Your Choice {(int)Options.GIVEINPUT}->PLEASE GIVE INPUT,{(int)Options.READINPUT}->INPUT IS READ FROM FILE";
+                string consoleMessage = $"Enter Your Choice {(int)Options.GIVEINPUT}->PLEASE GIVE INPUT,{(int)Options.READINPUT}-> READ FILE FROM ENTERED PATH ";
                 Console.WriteLine(consoleMessage);
                 try
                 {
